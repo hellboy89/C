@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1624204063 source:c:\users\juan\google drive\trabalho\programacao\c\declaracao_atribuicao.c
+	<stdio.h>
+	<string.h>
+
+1624272276 source:c:\users\juan\google drive\trabalho\programacao\c\entrada_de_dados_fgets.c
+	<stdio.h>
+	<string.h>
+
+1624262974 source:c:\users\juan\google drive\trabalho\programacao\c\entrada_de_dados_scanf.c
+	<stdio.h>
+	<string.h>
+
+1624197744 source:c:\users\juan\google drive\trabalho\programacao\c\primeiroprograma.c
+	<stdio.h>
+
+1624253973 source:c:\users\juan\google drive\trabalho\programacao\c\processamento_de_dados_casting.c
+	<stdio.h>
+
+1624252328 source:c:\users\juan\google drive\trabalho\programacao\c\saida_de_dados.c
+	<stdio.h>
+
+1624262625 source:c:\users\juan\google drive\trabalho\programacao\c\teste.c
+	<stdio.h>
+	<string.h>
+
+1624262595 source:c:\users\juan\google drive\trabalho\programacao\c\tipos_de_dados.c
+	<stdio.h>
+
+1584205420 source:c:\users\juan\google drive\trabalho\programacao\c\codeblocks\udemy-estudos\main.c
+	<stdio.h>
+	<stdlib.h>
+

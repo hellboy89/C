@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624879447 source:c:\users\juan\google drive\trabalho\programacao\c\exercicios\04-tempodejogo\main.c
+	<stdio.h>
+	<stdlib.h>
+
